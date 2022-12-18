@@ -5,6 +5,7 @@
         <Image condition="is">C:\Program Files\Git\cmd\git.exe</Image>
         <Image condition="is">C:\Program Files\Git\mingw64\bin\git.exe</Image>
         <Image condition="is">C:\Program Files\Git\mingw64\libexec\git-core\git.exe</Image>
+        <Image condition="is">C:\Program Files\Git\usr\bin\cygwin-console-helper.exe</Image>
       </ProcessTampering>
     </RuleGroup>
   </EventFiltering>
